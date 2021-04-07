@@ -1,6 +1,6 @@
 Day 1: April 6, 2021 
 
-Today's Progress: learded postgresSQL in class. going to start project for hack week full stack
+Today's Progress: Learned postgresSQL in class. Going to start project for hack week Full stack
 
 Thoughts: have much to learn
 
