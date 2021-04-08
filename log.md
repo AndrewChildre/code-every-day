@@ -5,3 +5,12 @@ Today's Progress: learded postgresSQL in class. going to start project for hack 
 Thoughts: have much to learn
 
 Link to work: not for this yet 
+
+
+----------------------------------------------------------------------------------
+
+Day 2: April 7, 2021,
+
+Todays Progress: Had intro to python this AM, worked on understanding express more.
+
+Thoughts: making progress toward my goals.
