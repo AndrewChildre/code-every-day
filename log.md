@@ -20,3 +20,9 @@ Thoughts: making progress toward my goals.
 Day 3
 Todays Progress: OOP Python AM. Continue working through Mongoose and Mongo again
 Thoughts: Totally lost this moring, but keep trying!
+
+--------------------------------------------------------------------------------------
+
+Day 4 
+Todays progress: Continue OOP Python learning, Inrto to django.
+Thoughts: Learning was much improved today
