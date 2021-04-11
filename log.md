@@ -26,3 +26,9 @@ Thoughts: Totally lost this moring, but keep trying!
 Day 4 
 Todays progress: Continue OOP Python learning, Inrto to django.
 Thoughts: Learning was much improved today
+
+----------------------------------------------------------------------------------
+
+Day 5 
+Todays progress: WOrk on project for class, learn how to use Material UI.
+Thoughts: Material ui is an excellent program to use.
