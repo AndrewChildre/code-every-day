@@ -39,3 +39,8 @@ Day 6 April 11, 2021
 Todays progress: Make Material UI project presentable.
 Thoughts: Material UI is awesome.
 
+----------------------------------------------------------------------------------
+
+Day 7 April 12, 2021
+Todays progress: Wrapping my head around Python OOP. 
+Thoughts: continue to learn, cintinue to grow.
