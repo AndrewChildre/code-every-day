@@ -44,3 +44,17 @@ Thoughts: Material UI is awesome.
 Day 7 April 12, 2021
 Todays progress: Wrapping my head around Python OOP. 
 Thoughts: continue to learn, cintinue to grow.
+
+-----------------------------------------------------------------------------------
+
+Day 8 April 13, 2021
+Todays progress: Neck deep in django learning.
+Thoughts: A lot of different syntax. Many useful tools.
+
+
+
+
+
+
+
+
