@@ -51,6 +51,12 @@ Day 8 April 13, 2021
 Todays progress: Neck deep in django learning.
 Thoughts: A lot of different syntax. Many useful tools.
 
+-----------------------------------------------------------------------------------
+
+Day 9 April 14, 2021
+Todays progress: Continue with Python oop and django.
+Thoughts: I understand the concepts, need to solidify my javascript to have a good base.
+
 
 
 
