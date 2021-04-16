@@ -57,6 +57,9 @@ Day 9 April 14, 2021
 Todays progress: Continue with Python oop and django.
 Thoughts: I understand the concepts, need to solidify my javascript to have a good base.
 
+Day 10 April 15, 2021
+Todays progress: Continue with Python django, made final project proposal.
+Thoughts: Getting better at understanding django, excited to start final project.
 
 
 
