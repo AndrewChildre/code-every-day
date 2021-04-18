@@ -69,6 +69,12 @@ Day 11 April 16, 2021
 Today progress: Python django code. Get feedback on project proposal, and make adjustments.
 Thoughts: Going to be a good challenge to build my own db for my project.
 
+-------------------------------------------------------------------------------------------
+
+Day 12 April 17, 2021
+Todays progress: Continue with Python, worked on REST framework in django.
+Thoughts: I'm Getting a better grasp on the backend, still need to study more to get comfortable.
+
 
 
 
