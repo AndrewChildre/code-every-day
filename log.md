@@ -75,6 +75,11 @@ Day 12 April 17, 2021
 Todays progress: Continue with Python, worked on REST framework in django.
 Thoughts: I'm Getting a better grasp on the backend, still need to study more to get comfortable.
 
+---------------------------------------------------------------------------------------------------------
+
+Day 13 April 18, 2021
+Todays progress: Built a django REST API. Tried to connect it to my React frontend, Still needs more debugging.
+Thoughts: I was making it more difficult than it needed to be, lessons learned.
 
 
 
