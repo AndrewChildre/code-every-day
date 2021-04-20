@@ -81,6 +81,12 @@ Day 13 April 18, 2021
 Todays progress: Built a django REST API. Tried to connect it to my React frontend, Still needs more debugging.
 Thoughts: I was making it more difficult than it needed to be, lessons learned.
 
+-------------------------------------------------------------------------------------------------------------
+
+Day 14 April 19, 2021
+Todays progress: Started Final project on the backend using python/django. Working through URL issues in the API.
+Thoughts: In coding figuring out why something won't work is half the battle.
+
 
 
 
