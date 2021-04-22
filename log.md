@@ -87,6 +87,18 @@ Day 14 April 19, 2021
 Todays progress: Started Final project on the backend using python/django. Working through URL issues in the API.
 Thoughts: In coding figuring out why something won't work is half the battle.
 
+----------------------------------------------------------------------------------------------------------
+
+Day 15 April 20, 2021
+Todays progress: Got django API and data base set up.
+Thoughts: I am still working out API call issues.
+
+--------------------------------------------------------------------------------------------------------
+
+Day 16 April 21, 2021
+Todays Progress: Refactor Django code to get CRUD. Started Front end, I got the menu drawer working.
+Thoughts: I am having a big challange getting my API calls to work with my backend.
+
 
 
 
