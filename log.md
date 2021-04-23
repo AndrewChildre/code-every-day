@@ -99,6 +99,12 @@ Day 16 April 21, 2021
 Todays Progress: Refactor Django code to get CRUD. Started Front end, I got the menu drawer working.
 Thoughts: I am having a big challange getting my API calls to work with my backend.
 
+------------------------------------------------------------------------------------------------------------
+
+Day 17 April 22, 2021
+Todays Progress: Worked frontend coming along great. backend API auth not working. 
+Thoughts: Going to get help for my backend issues.
+
 
 
 
