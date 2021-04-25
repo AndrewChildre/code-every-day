@@ -105,6 +105,18 @@ Day 17 April 22, 2021
 Todays Progress: Worked frontend coming along great. backend API auth not working. 
 Thoughts: Going to get help for my backend issues.
 
+______________________________________________________________________________________________________
+
+Day 17 April 23, 2021
+Todays progress: Pushed really hard on getting Django backend and  React frontend of my project working.
+Thoughts: Glad to have had some help. Learning a lot.
+
+--------------------------------------------------------------------------------------------------------------
+
+Day 18 April 24, 2021
+Todays Progress: Worked on getting full functionality of my React / Django project. Started styling react components.
+Thoughts: Project is coming along well. Should be complete tomorrow!
+
 
 
 
