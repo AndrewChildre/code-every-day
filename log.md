@@ -117,6 +117,12 @@ Day 18 April 24, 2021
 Todays Progress: Worked on getting full functionality of my React / Django project. Started styling react components.
 Thoughts: Project is coming along well. Should be complete tomorrow!
 
+----------------------------------------------------------------------------------------------------------
+
+Day 19 April 25, 2021
+Todays progress: My React/Django project meets all the requirements and is launched!
+Thoughts: A lot of hard work, Happy that I got throught it.
+
 
 
 
