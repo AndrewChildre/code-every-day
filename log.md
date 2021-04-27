@@ -123,6 +123,11 @@ Day 19 April 25, 2021
 Todays progress: My React/Django project meets all the requirements and is launched!
 Thoughts: A lot of hard work, Happy that I got throught it.
 
+----------------------------------------------------------------------------------------------------------
+
+Day 20 April 26, 2021
+Todays Progress: Cleaned up my code, fixed a couple errors with my react rendering.
+Thoughts: Presented project. Went well, the class seemed to enjoy it.
 
 
 
