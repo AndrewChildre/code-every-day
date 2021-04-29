@@ -138,7 +138,7 @@ Thoughts: need to make sure that the mobile version looks correct.
 -------------------------------------------------------------------------------------------------------------
 
 Day 22 April 28, 2021
-Todays progress: Start review of JavaScript. work on code challanges.
+Todays progress: Start review of JavaScript. Work on code challanges.
 Thoughts: It's going to be good for me to do a total review of my GA bootcamp. Went very well!
 
 
