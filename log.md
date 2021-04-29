@@ -129,6 +129,18 @@ Day 20 April 26, 2021
 Todays Progress: Cleaned up my code, fixed a couple errors with my react rendering.
 Thoughts: Presented project. Went well, the class seemed to enjoy it.
 
+---------------------------------------------------------------------------------------------------------
+
+Day 21 April 27, 2021
+Todays Progress: Fixed formatting issues on my react project.
+Thoughts: need to make sure that the mobile version looks correct.
+
+-------------------------------------------------------------------------------------------------------------
+
+Day 22 April 28, 2021
+Todays progress: Start review of JavaScript. work on code challanges.
+Thoughts: It's going to be good for me to do a total review of my GA bootcamp. Went very well!
+
 
 
 
