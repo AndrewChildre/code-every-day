@@ -141,6 +141,14 @@ Day 22 April 28, 2021
 Todays progress: Start review of JavaScript. Work on code challanges.
 Thoughts: It's going to be good for me to do a total review of my GA bootcamp. Went very well!
 
+---------------------------------------------------------------------------------------------------------
+
+Day 23 April 29, 2021
+Todays Progress: Continue review of javaScript, work code challanges. Still making changes to my final project to improve it.
+Thoughts: This review has started off well. I am retaining th infor mation much better
+
+
+
 
 
 
