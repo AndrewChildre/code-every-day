@@ -144,10 +144,14 @@ Thoughts: It's going to be good for me to do a total review of my GA bootcamp. W
 ---------------------------------------------------------------------------------------------------------
 
 Day 23 April 29, 2021
-Todays Progress: Continue review of javaScript, work code challanges. Still making changes to my final project to improve it.
+Todays Progress: Continue review of JavaScript, work code challanges. Still making changes to my final project to improve it.
 Thoughts: This review has started off well. I am retaining th infor mation much better
 
+------------------------------------------------------------------------------------------------------------
 
+Day 24 April 30, 2021
+Todays Progress: Review Javascript HOF, continue with code challanges.
+Thoughts: Getting better everyday, also getting more comfortable
 
 
 
