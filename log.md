@@ -153,6 +153,12 @@ Day 24 April 30, 2021
 Todays Progress: Review Javascript HOF, continue with code challanges.
 Thoughts: Getting better everyday, also getting more comfortable
 
+-----------------------------------------------------------------------------------------------------------
+
+Day 25 May 1, 2021
+Todays Progress: review Javascript DOM and event listeners.
+Thoughts: Getting better one day at a time
+
 
 
 
