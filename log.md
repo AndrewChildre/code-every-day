@@ -159,6 +159,11 @@ Day 25 May 1, 2021
 Todays Progress: review Javascript DOM and event listeners.
 Thoughts: Getting better one day at a time
 
+---------------------------------------------------------------------------------------------------------
+
+Day 26 May 2, 2021
+Todays Progress: Continue review of course materials of Javascript.
+Thoughts: Staying diciplined.
 
 
 
