@@ -165,6 +165,13 @@ Day 26 May 2, 2021
 Todays Progress: Continue review of course materials of Javascript.
 Thoughts: Staying diciplined.
 
+---------------------------------------------------------------------------------------------------------
+
+Day27 May 3, 2021
+Todays Progress: Still working with javascript about wrap it up and move on to APIs.
+
+
+
 
 
 
