@@ -167,8 +167,16 @@ Thoughts: Staying diciplined.
 
 ---------------------------------------------------------------------------------------------------------
 
-Day27 May 3, 2021
+Day 27 May 3, 2021
 Todays Progress: Still working with javascript about wrap it up and move on to APIs.
+THoughts: working everyday getting better
+
+-----------------------------------------------------------------------------------------------
+
+Day 28 May 4, 2021
+Todays progress: Work through review of Javascript and APIs.
+Thoughts: continue to get better everyday
+
 
 
 
