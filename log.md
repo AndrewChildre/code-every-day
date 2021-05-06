@@ -177,6 +177,12 @@ Day 28 May 4, 2021
 Todays progress: Work through review of Javascript and APIs.
 Thoughts: continue to get better everyday
 
+------------------------------------------------------------------------------------
+
+Day 29 May 5, 2021
+
+Todays Progress: Review Javascript, API calls, event listeners. Work on Code wars challanges.
+Progress: Continue to make progress on my review plan.
 
 
 
