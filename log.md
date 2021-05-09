@@ -184,6 +184,9 @@ Day 29 May 5, 2021
 Todays Progress: Review Javascript, API calls, event listeners. Work on Code wars challanges.
 Progress: Continue to make progress on my review plan.
 
+May 6 - 8 2021
+Had medical procedure did not code. I did submit applications for jobs though
+
 
 
 
