@@ -193,6 +193,12 @@ Day 30 May 10, 2021
 Todays Progress: Got back on the coding train. Worked on Javascript OOP.
 Thoughts: I'mm Commited to the process.
 
+---------------------------------------------------------------------------------------------
+
+Day 31 May 11, 2021
+Todays Progress: Worked on Javascript oop card deck project. Reviewed Recursion fundamentals.
+Thoughts: Always good to keep moving forward!
+
 
 
 
