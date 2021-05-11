@@ -182,10 +182,19 @@ Thoughts: continue to get better everyday
 Day 29 May 5, 2021
 
 Todays Progress: Review Javascript, API calls, event listeners. Work on Code wars challanges.
-Progress: Continue to make progress on my review plan.
+Thoughts: Continue to make progress on my review plan.
 
-May 6 - 8 2021
+May 6 - 9 2021
 Had medical procedure did not code. I did submit applications for jobs though
+
+--------------------------------------------------------------------------------------------
+
+Day 30 May 10, 2021
+Todays Progress: Got back on the coding train. Worked on Javascript OOP.
+Thoughts: I'mm Commited to the process.
+
+
+
 
 
 
