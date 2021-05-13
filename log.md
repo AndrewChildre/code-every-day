@@ -199,6 +199,12 @@ Day 31 May 11, 2021
 Todays Progress: Worked on Javascript oop card deck project. Reviewed Recursion fundamentals.
 Thoughts: Always good to keep moving forward.
 
+------------------------------------------------------------------------------------------------
+
+Day 32 May 12, 2021
+Todays Progress: Started review of React. Worked on some Codewars challanges. Gaining some traction on the job hunt. It's encouraging to start to at least here back from someone.
+Thoughts: Small steps and 1% better everyday will get me there.
+
 
 
 
