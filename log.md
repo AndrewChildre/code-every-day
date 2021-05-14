@@ -205,6 +205,12 @@ Day 32 May 12, 2021
 Todays Progress: Started review of React. Worked on some Codewars challanges. Gaining some traction on the job hunt. It's encouraging to start to at least here back from someone.
 Thoughts: Small steps and 1% better everyday will get me there.
 
+---------------------------------------------------------------------------------------------
+
+Day 33 May 13, 2021
+Todays Progress: Continued React review, with state being the topic. Cleaned up one of my projects.
+Thoughts: Feeling good about my development. One day at a time
+
 
 
 
