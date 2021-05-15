@@ -209,7 +209,13 @@ Thoughts: Small steps and 1% better everyday will get me there.
 
 Day 33 May 13, 2021
 Todays Progress: Continued React review, with state being the topic. Cleaned up one of my projects.
-Thoughts: Feeling good about my development. One day at a time
+Thoughts: Feeling good about my development. One day at a time.
+
+-------------------------------------------------------------------------------------------------------
+
+Day 34 May 14,2021
+Todays progress: Still with React review. Working with React forms.
+THoughts: I keep going
 
 
 
