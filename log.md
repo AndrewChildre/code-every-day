@@ -217,6 +217,12 @@ Day 34 May 14,2021
 Todays progress: Still with React review. Working with React forms.
 THoughts: I keep going
 
+---------------------------------------------------------------------------------------------------------
+
+Day 35 May 15, 2021
+Todays Progress: React review learning useEffect hooks.
+Thoughts: Need to be more diciplined
+
 
 
 
