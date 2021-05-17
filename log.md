@@ -223,7 +223,11 @@ Day 35 May 15, 2021
 Todays Progress: React review learning useEffect hooks.
 Thoughts: Need to be more diciplined
 
+-----------------------------------------------------------------------------------------------------
 
+Day 36 2021 May 16, 2021
+Todays progress: Continue React review, worked with React router. Finished up React Hooks.
+Thoughts: Getting better everyday
 
 
 
