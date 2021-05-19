@@ -229,6 +229,18 @@ Day 36 2021 May 16, 2021
 Todays progress: Continue React review, worked with React router. Finished up React Hooks.
 Thoughts: Getting better everyday
 
+----------------------------------------------------------------------------------------------------------
+
+Day 36 May 17, 2021
+Todays Progress: Finish up React review, with react router.
+Thoughts: Going well
+
+-------------------------------------------------------------------------------------------------------
+
+Day 37 May 18, 2021
+Todays Progress: Finished up review of all frontend material! Started review of Node. worked on some freeCodeCamp chanllenges.
+Thoughts: I picked up a lot of knowledge with my review, and feel more confident.
+
 
 
 
