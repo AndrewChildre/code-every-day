@@ -241,8 +241,10 @@ Day 37 May 18, 2021
 Todays Progress: Finished up review of all frontend material! Started review of Node. worked on some freeCodeCamp chanllenges.
 Thoughts: I picked up a lot of knowledge with my review, and feel more confident.
 
+---------------------------------------------------------------------------------------------------------
+
 Day 38 May 19,2021
-Todays Progress: Node Promises, and completed review of NodeJs.
+Todays Progress: Node Promises, and completed review of NodeJs. Started some freeCodeCamp Algos.
 Thoughts: 1% better everyday
 
 
