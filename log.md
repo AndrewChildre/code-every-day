@@ -249,6 +249,7 @@ Thoughts: 1% better everyday
 
 ------------------------------------------------------------------------------------------------------------
 
+Day 39 May 20,2021
 Todays Progress: Start review of MongoDB, Also started new project for my presonal website.
 Thoughts: It's going to be awesome.
 
