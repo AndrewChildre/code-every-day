@@ -247,6 +247,11 @@ Day 38 May 19,2021
 Todays Progress: Node Promises, and completed review of NodeJs. Started some freeCodeCamp Algos.
 Thoughts: 1% better everyday
 
+------------------------------------------------------------------------------------------------------------
+
+Todays Progress: Start review of MongoDB, Also started new project for my presonal website.
+Thoughts: It's going to be awesome.
+
 
 
 
