@@ -253,6 +253,10 @@ Day 39 May 20,2021
 Todays Progress: Start review of MongoDB, Also started new project for my presonal website.
 Thoughts: It's going to be awesome.
 
+Day 40 - 44 May 28, 2021
+Today's Progress: Build a card shuffler using React and an API for a coding challenge. I got it sent to me for an interview I did. Took a few days off for my birthday.
+Thoughts: Few Days off. Back at it, working hard!
+
 
 
 
