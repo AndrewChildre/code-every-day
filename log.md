@@ -261,11 +261,18 @@ Day 40 - 44 May 28, 2021
 Today's Progress: Build a card shuffler using React and an API for a coding challenge. I got it sent to me for an interview I did. Took a few days off for my birthday.
 Thoughts: Few Days off. Back at it, working hard!
 
------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 Day 45 May 29, 2021
 Today's Progress: Working on my personal website. Using React and Material-UI for the front-end.
 Thoughts: Need to work on the layout. Git issues are not fun.
+
+---------------------------------------------------------------------------------------------------------------
+
+Day 46 May 30, 2021
+Today's Progress: Contiune to develop my personal website.
+Thoughts: Made great progress today, should have MVP within the next two days.
+
 
 
 
