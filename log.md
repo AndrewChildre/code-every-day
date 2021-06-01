@@ -273,6 +273,11 @@ Day 46 May 30, 2021
 Today's Progress: Contiune to develop my personal website.
 Thoughts: Made great progress today, should have MVP within the next two days.
 
+---------------------------------------------------------------------------------------------------------------
+
+Day 47 May 31, 2021
+Today's Progress: Website is 90% done! Fixing some layout issues on moblie viewing. 
+Thoughts: The last 10% of anything is the hardest. That is where you seperate yourself from everyone else.
 
 
 
