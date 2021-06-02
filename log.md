@@ -279,6 +279,12 @@ Day 47 May 31, 2021
 Today's Progress: Website is 90% done! Fixing some layout issues on moblie viewing. 
 Thoughts: The last 10% of anything is the hardest. That is where you seperate yourself from everyone else.
 
+-----------------------------------------------------------------------------------------------------------
+
+Day 48 June 1, 2021
+Today's Progress: My personal website is so close to being ready, the layout issues took me longer than I wanted to get fixed. I'm ready to clean up my code, and figure out where to deploy from.
+Thoughts: I'm remembering that if you are not struggling, you are not growing.
+
 
 
 
