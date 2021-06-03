@@ -285,6 +285,12 @@ Day 48 June 1, 2021
 Today's Progress: My personal website is so close to being ready, the layout issues took me longer than I wanted to get fixed. I'm ready to clean up my code, and figure out where to deploy from.
 Thoughts: I'm remembering that if you are not struggling, you are not growing.
 
+Day 49 June 2, 2021
+Today's Progress: I finally deployed my portfolio website today!
+Thoughts: A lot of hardwork. Feels great to get done!
+
+-----------------------------------------------------------------------------------
+
 
 
 
