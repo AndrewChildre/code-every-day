@@ -291,6 +291,10 @@ Thoughts: A lot of hardwork. Feels great to get done!
 
 -----------------------------------------------------------------------------------
 
+Day 50 June 3, 2021
+Today's Progress: Start reviewing backend MongoDB, Get back to code challenges.
+Thoughts: Got to hit the challenges hard. I know it's one of my week points.
+
 
 
 
