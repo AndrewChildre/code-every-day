@@ -295,6 +295,12 @@ Day 50 June 3, 2021
 Today's Progress: Start reviewing backend MongoDB, Get back to code challenges.
 Thoughts: Got to hit the challenges hard. I know it's one of my week points.
 
+-----------------------------------------------------------------------------------
+
+Day 51 June 4, 2021
+Today's Progress: Review MongoDB.
+Thoughts: Work on rounding out my portfolio with some backend projects.
+
 
 
 
