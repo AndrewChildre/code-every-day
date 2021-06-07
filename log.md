@@ -307,6 +307,8 @@ Day 52 June 6, 2021
 Today's Progress: Review Mongo DB.
 Thoughts: Took yesterday off to reset a little. The next couple weeks will be focused on backend stacks, and code challenges.
 
+--------------------------------------------------------------------------------------------------------------------------
+
 
 
 
