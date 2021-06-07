@@ -304,7 +304,7 @@ Thoughts: Work on rounding out my portfolio with some backend projects.
 ---------------------------------------------------------------------------------------------------------------------------------
 
 Day 52 June 6, 2021
-Today's Progress: Review Mongo DB.
+Today's Progress:  Finish review Mongo DB, started review of mongoose.
 Thoughts: Took yesterday off to reset a little. The next couple weeks will be focused on backend stacks, and code challenges.
 
 --------------------------------------------------------------------------------------------------------------------------
