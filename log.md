@@ -309,6 +309,10 @@ Thoughts: Took yesterday off to reset a little. The next couple weeks will be fo
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 53 June 7,2021
+Today's Progress: Finished review of mongoose, started ExpressJS review.
+Thoughts: Keep on going everyday!
+
 
 
 
