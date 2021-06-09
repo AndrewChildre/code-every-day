@@ -313,6 +313,9 @@ Day 53 June 7,2021
 Today's Progress: Finished review of mongoose, started ExpressJS review.
 Thoughts: Keep on going everyday!
 
+-----------------------------------------------------------------------------------------------------------------------------
+Today's Progress: Continue ExpressJS review, code challenges on code wars.
+Thoughts: Didn't make as much progress as I would have liked. I will continue on!
 
 
 
