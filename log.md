@@ -315,13 +315,21 @@ Thoughts: Keep on going everyday!
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 54 June 8, 2021
 Today's Progress: Continue ExpressJS review, code challenges on code wars.
 Thoughts: Didn't make as much progress as I would have liked. I will continue on!
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 55 June 9, 2021
 Today's Progress: Only a little bit of coding today on Express. 
-Thoughts: Spent most of the day job hunting
+Thoughts: Spent most of the day job hunting.
+
+--------------------------------------------------------------------------------------------------------------------
+
+Day 56 June 10, 2021
+Today's Progress: Continue with express js review. Worked on finializing a freelance opportunity.
+Thoughts: I continue to work hard and push towards my goals. Getting closer everyday!
 
 
 
