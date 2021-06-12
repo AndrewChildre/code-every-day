@@ -331,6 +331,12 @@ Day 56 June 10, 2021
 Today's Progress: Continue with express js review. Worked on finializing a freelance opportunity.
 Thoughts: I continue to work hard and push towards my goals. Getting closer everyday!
 
+--------------------------------------------------------------------------------------------------------------
+
+Day 57 June 11, 2021
+Today's Progress: Started learning observables in React for a project I'm going to be involved in. Also need to start working getting my head arround Typescript.
+Thoughts: Excited to keep learning and growing.
+
 
 
 
