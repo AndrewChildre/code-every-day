@@ -337,6 +337,12 @@ Day 57 June 11, 2021
 Today's Progress: Started learning observables in React for a project I'm going to be involved in. Also need to start working getting my head arround Typescript.
 Thoughts: Excited to keep learning and growing.
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+Day 58 June 12, 2021
+
+Today's Progress: Started learning typescript, worked through a couple of tutorials. Also worked on trying to understand observables and how they work.
+Thoughts: There is never a lack of new things to learn.
 
 
 
