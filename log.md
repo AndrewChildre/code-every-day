@@ -344,6 +344,12 @@ Day 58 June 12, 2021
 Today's Progress: Started learning typescript, worked through a couple of tutorials. Also worked on trying to understand observables and how they work.
 Thoughts: There is never a lack of new things to learn.
 
+---------------------------------------------------------------------------------------------------------------------------------
+
+Day 59 June 14, 2021
+Today's Progress: Kept working on Typescript. Also helping a Sr. Dev on a project he's doing.
+Thoughts: Happy to be working on some real world code, and thankful that someone is taking the time to work with me.
+
 
 
 
