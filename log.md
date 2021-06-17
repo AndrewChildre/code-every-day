@@ -350,6 +350,8 @@ Day 59 June 14, 2021
 Today's Progress: Kept working on Typescript. Also helping a Sr. Dev on a project he's doing.
 Thoughts: Happy to be working on some real world code, and thankful that someone is taking the time to work with me.
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 Day 60 June 16, 2021
 Today's Progress: Working on Typescript for the past couple of days. It has some different syntax I'm trying to learn.
 Thoughts: I'm studying hard on this, so I can have a better understanding of the project I'm working on with another dev. 
