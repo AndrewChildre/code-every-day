@@ -356,9 +356,17 @@ Day 60 June 16, 2021
 Today's Progress: Working on Typescript for the past couple of days. It has some different syntax I'm trying to learn.
 Thoughts: I'm studying hard on this, so I can have a better understanding of the project I'm working on with another dev. 
 
+---------------------------------------------------------------------------------------------------------------
+
 Day 61 June 17, 2021 
 Today's Progress: Still pushing through Typescript.
 Thoughts: Doing well, the only issue I'm having is with create react app, and typescript complie errors.
+
+----------------------------------------------------------------------------------------------------------------
+
+Day 62 June 18, 2021
+Today's Progress: Light study today of some Typescript classes, and getters / setters.
+Thoughts: One day at a time.
 
 
 
