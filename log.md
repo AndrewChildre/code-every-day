@@ -368,6 +368,12 @@ Day 62 June 18, 2021
 Today's Progress: Light study today of some Typescript classes, and getters / setters.
 Thoughts: One day at a time.
 
+------------------------------------------------------------------------------------------------------------------
+
+Day 63 June 19, 2021
+Today's Progress: Do some debugging on a typescript project.
+Thoughts: Attension to detail is important.
+
 
 
 
