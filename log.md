@@ -374,6 +374,11 @@ Day 63 June 19, 2021
 Today's Progress: Do some debugging on a typescript project.
 Thoughts: Attension to detail is important.
 
+-------------------------------------------------------------------------------------------------------------
+
+Day 64 June 21, 2021
+Today's Progress: Contiune on with Typescript, this will be my focus for the next few days.
+Thoughts: Need to focus more!
 
 
 
