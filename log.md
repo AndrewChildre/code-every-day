@@ -380,6 +380,14 @@ Day 64 June 21, 2021
 Today's Progress: Contiune on with Typescript, this will be my focus for the next few days.
 Thoughts: Need to focus more!
 
+-----------------------------------------------------------------------------------------------------
+
+Day 65 June 22, 2021
+Today's Progress: Work through React/Typescript todo app tutorial. Review OOP Javascript fundamentals.
+Thoughts: Stay focused and make progress.
+
+--------------------------------------------------------------------------------------------------------
+
 
 
 
