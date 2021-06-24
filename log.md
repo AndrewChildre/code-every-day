@@ -390,6 +390,7 @@ Thoughts: Stay focused and make progress.
 
 Day 66 June 23, 2021
 Today's Progress: Work through more React/Typescript todo app tutorials. Started new project with the Sr. Dev I'm working with. He's got me building out some schema classes, and dipping my toes into GraphQL.
+Thoughts: Pushing into new things and growing each day.
 
 
 
