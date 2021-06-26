@@ -398,6 +398,11 @@ Day 67 June 24, 2021
 Today's Progress: Built some class models in Typescript, started learning unit testing with node. Tried to use Jest, it doesn't work out of the box with Typescript. I will have to revisit. 
 Thoughts: Starting to get some traction on my job search and learning. 
 
+---------------------------------------------------------------------------------------------------------------------------------
+
+Day 68 June 25, 2021
+Today's Progress: Neck deep into writing unit test for a LMS project. Learning a ton.
+Thoughts: Trying to remember to enjoy the process.
 
 
 
