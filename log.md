@@ -404,6 +404,12 @@ Day 68 June 25, 2021
 Today's Progress: Neck deep into writing unit test for a LMS project. Learning a ton.
 Thoughts: Trying to remember to enjoy the process.
 
+---------------------------------------------------------------------------------------------------------------------
+
+Day 69 June 26, 2021
+Today's progress: Worked on API calls in Typescript. 
+Thoughts: I got the basics figured out, still need practice.
+
 
 
 
