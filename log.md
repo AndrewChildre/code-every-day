@@ -410,6 +410,13 @@ Day 69 June 26, 2021
 Today's progress: Worked on API calls in Typescript. 
 Thoughts: I got the basics figured out, still need practice.
 
+---------------------------------------------------------------------------------------------------------------------
+
+Day 70 June 27, 2021
+Todays Progress: Working on React skills building a blog app.
+Thoughts: Keep on truckin.
+
+------------------------------------------------------------------------------------------------
 
 
 
