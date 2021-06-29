@@ -418,6 +418,10 @@ Thoughts: Keep on truckin.
 
 ------------------------------------------------------------------------------------------------
 
+Day 71 June 28, 2021
+Today's Progress: Worked on some React and Typescript. Trying to get better at the two together.
+Thoughts: Still working it!
+
 
 
 
