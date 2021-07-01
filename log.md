@@ -428,6 +428,9 @@ Day 72 June 29, 2021
 Today's Progress: Worked on learning more Typescript, was having a difficult time trying to focus. Also worked on some Typescript unit testing.
 Thoughts: Staying motivated, and enjoy the process. 
 
+Day 73 June 30, 2021
+Today's Progress: Continuing on the Typescript/React projects. Work with Sr. Dev and a lesson.
+THoughts: Keep grinding.
 
 
 
