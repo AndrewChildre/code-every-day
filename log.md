@@ -432,5 +432,11 @@ Day 73 June 30, 2021
 Today's Progress: Continuing on the Typescript/React projects. Work with Sr. Dev and a lesson.
 THoughts: Keep grinding.
 
+--------------------------------------------------------------------------------------------
+
+Day 74, July 1, 2021
+Today's Progress: Typescript/React API data.
+Thoughts: the struggle is real
+
 
 
