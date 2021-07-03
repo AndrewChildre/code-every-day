@@ -434,9 +434,19 @@ THoughts: Keep grinding.
 
 --------------------------------------------------------------------------------------------
 
-Day 74, July 1, 2021
+Day 74 July 1, 2021
 Today's Progress: Typescript/React API data.
-Thoughts: the struggle is real
+Thoughts: the struggle is real.
+
+-----------------------------------------------------------------------------------------
+
+Day 75 July 2, 2021
+
+Today's Progress: Typescript/React API data.
+Thoughts: the struggle is real.
+
+-------------------------------------------------------------------------------------
+
 
 
 
