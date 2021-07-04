@@ -447,6 +447,10 @@ Thoughts: the struggle is real.
 
 -------------------------------------------------------------------------------------
 
+Day 76 July 3, 2021
+Today's Progress: Typescript classes/interfaces, and working on rendering.
+Thoughts: Why do I struggle so much with the render?
+
 
 
 
