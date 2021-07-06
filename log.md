@@ -451,6 +451,12 @@ Day 76 July 3, 2021
 Today's Progress: Typescript classes/interfaces, and working on rendering.
 Thoughts: Why do I struggle so much with the render?
 
+--------------------------------------------------------------------------------------
+
+Day 77 July 5, 2021
+Today's Progress: Finish working through Typescript on rendering a HTML template. Also review oop Javascript again to keep solidifying my fundamentals.
+Thoughts: Keep on going, no turning back!
+
 
 
 
