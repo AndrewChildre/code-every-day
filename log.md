@@ -457,6 +457,12 @@ Day 77 July 5, 2021
 Today's Progress: Finish working through Typescript on rendering a HTML template. Also review oop Javascript again to keep solidifying my fundamentals.
 Thoughts: Keep on going, no turning back!
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+Day 78 July 6, 2021
+Today's progress: Worked on form validation in Javascript and npm react-hook-form.
+Thoughts: Learning and getting better everyday.
+
 
 
 
