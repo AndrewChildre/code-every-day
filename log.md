@@ -463,6 +463,12 @@ Day 78 July 6, 2021
 Today's progress: Worked on form validation in Javascript and npm react-hook-form.
 Thoughts: Learning and getting better everyday.
 
+-------------------------------------------------------------------------------------
+
+Day 79 July 7, 2021
+Today's Progress: Started building a landing page with a form and validation. I'm using the npm react-hook-form with Typescript. I'm not going to use any UI librarys, just CSS.
+Thoughts: Stepping up my game to improve my portfolio.
+
 
 
 
