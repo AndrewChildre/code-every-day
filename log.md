@@ -469,6 +469,12 @@ Day 79 July 7, 2021
 Today's Progress: Started building a landing page with a form and validation. I'm using the npm react-hook-form with Typescript. I'm not going to use any UI librarys, just CSS.
 Thoughts: Stepping up my game to improve my portfolio.
 
+---------------------------------------------------------------------------------------------------------------
+
+Day 80 July 8, 2021
+Today's Progress: Continued building a landing page with form validation. Getting close to my MVP, I need to get the submit event working correctly.
+Thoughts: I'm working hard everyday, and keep learning new skills.
+
 
 
 
