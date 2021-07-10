@@ -475,6 +475,12 @@ Day 80 July 8, 2021
 Today's Progress: Continued building a landing page with form validation. Getting close to my MVP, I need to get the submit event working correctly.
 Thoughts: I'm working hard everyday, and keep learning new skills.
 
+--------------------------------------------------------------------------------------------------------------------
+
+Day 81 July 9 2021
+Today's Progress: I have all the functionality working on my form validation project. I just need to clean up some code, and fix some styles. Then I can deploy it.
+Thoughts: Keep on learning everyday
+
 
 
 
