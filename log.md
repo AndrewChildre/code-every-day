@@ -481,9 +481,13 @@ Day 81 July 9 2021
 Today's Progress: I have all the functionality working on my form validation project. I just need to clean up some code, and fix some styles. Then I can deploy it.
 Thoughts: Keep on learning everyday.
 
+-----------------------------------------------------------------------------------------------
+
 Day 82 July 10, 2021
 Todays Progress: My form validation projectis very close to being done. I fixed the styling, got the form to clear when submitted, the best part is I added confetti on the success page.
 THoughts: It's been a fun little project and have learned a lot.
+
+---------------------------------------------------------------------------------------
 
 
 
