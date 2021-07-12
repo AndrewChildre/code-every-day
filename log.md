@@ -484,10 +484,16 @@ Thoughts: Keep on learning everyday.
 -----------------------------------------------------------------------------------------------
 
 Day 82 July 10, 2021
-Todays Progress: My form validation projectis very close to being done. I fixed the styling, got the form to clear when submitted, the best part is I added confetti on the success page.
+Today's Progress: My form validation projectis very close to being done. I fixed the styling, got the form to clear when submitted, the best part is I added confetti on the success page.
 Thoughts: It's been a fun little project and have learned a lot.
 
 ---------------------------------------------------------------------------------------
+
+Day 83 July 11, 2021
+Today's progress: Finished my form validation project and deployed it on netlify. I also added it to my portfolio site as well. 
+Thoughts: I'm happy with the way it turned out, and have learned a lot along the way. I'll post the link tomorrow.
+
+------------------------------------------------------------------------------------------------------------------
 
 
 
