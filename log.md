@@ -495,6 +495,9 @@ Thoughts: I'm happy with the way it turned out, and have learned a lot along the
 
 ------------------------------------------------------------------------------------------------------------------
 
+Day 84 July 11, 2021
+Today's Progress: Introducing myself to GraphQL for a project I'm going to be involved in.
+Thoughts: This will help me with my backend skills which are a weak point for me currently.
 
 
 
