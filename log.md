@@ -517,6 +517,9 @@ Day 87 July 15, 2021
 Today's Progress: I'm making progress on the bug hunt but have not fixed it yet! I shifted to working on API calls with data from forms.
 Thoughts: Keep on grinding even when it gets hard!
 
+----------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
