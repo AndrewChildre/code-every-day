@@ -511,6 +511,12 @@ Day 86 July 14, 2021
 Today's Progress: I got the opportunity to fix a couple bugs in production code. 
 Thoughts: 1st one I needed to get pointed in the right direction. 2nd one was no problem at all. I'm still working on the 3rd one.
 
+--------------------------------------------------------------------------------------------------------------------
+
+Day 87 July 15, 2021
+Today's Progress: I'm making progress on the bug hunt but have not fixed it yet! I shifted to working on API calls with data from forms.
+Thoughts: Keep on grinding even when it gets hard!
+
 
 
 
