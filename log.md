@@ -519,6 +519,10 @@ Thoughts: Keep on grinding even when it gets hard!
 
 ----------------------------------------------------------------------------------------------------------------------
 
+Day 88 July 17,2021
+Today's Progress: Took the day off yesterday. Today doing some review on Javascript fundamentals.
+Thoughts: One foot in front of the other.
+
 
 
 
