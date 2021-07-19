@@ -523,6 +523,12 @@ Day 88 July 17,2021
 Today's Progress: Took the day off yesterday. Today doing some review on Javascript fundamentals.
 Thoughts: One foot in front of the other.
 
+-------------------------------------------------------------------------------------------------
+
+Day 89 July 18, 2021
+Today's Progress: Continuing with fundamentals and code challenges today.
+Thoughts: Building on a solid foundation is the key to success.
+
 
 
 
