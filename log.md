@@ -529,6 +529,16 @@ Day 89 July 18, 2021
 Today's Progress: Continuing with fundamentals and code challenges today.
 Thoughts: Building on a solid foundation is the key to success.
 
+---------------------------------------------------------------------------------------------
+
+Day 90 July 19, 2021
+Today's Progress: Still rolling with the Javascript fundamentals and code challenges.
+Thoughts: Tough day fighting off the imposter syndrome.
+
+-------------------------------------------------------------------------------------------
+
+
+
 
 
 
