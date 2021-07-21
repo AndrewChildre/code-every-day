@@ -537,6 +537,12 @@ Thoughts: Tough day fighting off the imposter syndrome.
 
 -------------------------------------------------------------------------------------------
 
+Day 91 July 20,2021
+Today's Progress: Continue with the Javascript review, with focus on ES6.
+Thoughts: Better today, I'll get to where I want to be one day at a time.
+
+-------------------------------------------------------------------------------------
+
 
 
 
