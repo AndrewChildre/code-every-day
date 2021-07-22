@@ -543,6 +543,10 @@ Thoughts: Better today, I'll get to where I want to be one day at a time.
 
 -------------------------------------------------------------------------------------
 
+Day 92 July 21 2021
+Today's Progress: Work through Javascript regex tutorial, Learned how to set up a project in Lerna with Typescript.
+Thoughts: Learning is fun! Enjoy the process.
+
 
 
 
