@@ -547,6 +547,11 @@ Day 92 July 21 2021
 Today's Progress: Work through Javascript regex tutorial, Learned how to set up a project in Lerna with Typescript.
 Thoughts: Learning is fun! Enjoy the process.
 
+----------------------------------------------------------------------------------------------------
+
+Day 93 July 22, 2021
+Today's Progress: Worked through a code challenge on Hackerrank that I was sent for a position that I applied too. Also finished tutorial on Javascript regular expressions.
+Thoughts: The code challenge was hard, and I used all the time allotted. I am getting better everytime I do one.
 
 
 
