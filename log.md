@@ -553,6 +553,12 @@ Day 93 July 22, 2021
 Today's Progress: Worked through a code challenge on Hackerrank that I was sent for a position that I applied too. Also finished tutorial on Javascript regular expressions.
 Thoughts: The code challenge was hard, and I used all the time allotted. I am getting better everytime I do one.
 
+---------------------------------------------------------------------------------------------------------
+
+Day 94 July 23, 2021
+Today's Progress: Today is starting data structures and alogrithm review. There is a lot of material to cover. 
+Thoughts: I feel that this is really going to help me with those code challenges. 
+
 
 
 
