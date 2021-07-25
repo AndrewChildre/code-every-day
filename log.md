@@ -559,6 +559,12 @@ Day 94 July 23, 2021
 Today's Progress: Today is starting data structures and alogrithm review. There is a lot of material to cover. 
 Thoughts: I feel that this is really going to help me with those code challenges. 
 
+----------------------------------------------------------------------------------------------------------------
+
+Day 95 july 24, 2021
+Today's progress: Just some review this morning of data structures.
+Thoughts: Had to take some time to rest.
+
 
 
 
