@@ -565,7 +565,13 @@ Day 95 july 24, 2021
 Today's progress: Just some review this morning of data structures.
 Thoughts: Had to take some time to rest.
 
+--------------------------------------------------------------------------------------------------------
 
+Day 96 July 25, 2021
+Today's Progress: Working on Javascript algorithms, and some Typescript review.
+Thoughts: I will learn and code everyday.
+
+--------------------------------------------------------------------------------------------------------------
 
 
 
