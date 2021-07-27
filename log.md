@@ -573,6 +573,10 @@ Thoughts: I will learn and code everyday.
 
 --------------------------------------------------------------------------------------------------------------
 
+Day 97 July 26, 2021
+Today's Progress: Work through Javascript code challenges. Do interview prep.
+Thoughts: Code challenges seem to be my issue right now. So I know where I need to improve my skill set. 
+
 
 
 
