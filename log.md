@@ -577,6 +577,12 @@ Day 97 July 26, 2021
 Today's Progress: Work through Javascript code challenges. Do interview prep.
 Thoughts: Code challenges seem to be my issue right now. So I know where I need to improve my skill set. 
 
+-------------------------------------------------------------------------------------------------------------
+
+Day 98 July 27, 2021
+Today's Progress: Continue with the fundamentals, also working on Typescript.
+Thoughts: This drilling down on the fundamentals is really helping me move forward.
+
 
 
 
