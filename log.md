@@ -583,6 +583,10 @@ Day 98 July 27, 2021
 Today's Progress: Continue with the fundamentals, also working on Typescript.
 Thoughts: This drilling down on the fundamentals is really helping me move forward.
 
+----------------------------------------------------------------------------------------------------
+
+
+
 
 
 
