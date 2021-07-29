@@ -585,6 +585,9 @@ Thoughts: This drilling down on the fundamentals is really helping me move forwa
 
 ----------------------------------------------------------------------------------------------------
 
+Day 99 July 28, 2021
+Today's Progress: Still working through Javascript and Typescript. Working trough code challenges everyday.
+Thoughts: Small steps everyday lead to big change!
 
 
 
