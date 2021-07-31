@@ -33,6 +33,8 @@ Day 5 April 10, 2021
 Todays progress: Work on project for class, learn how to use Material UI.
 Thoughts: Material ui is an excellent program to use.
 
+---------------------------------------------------------------------------------
+
 ------------------------------------------------------------------------------------
 
 Day 6 April 11, 2021
