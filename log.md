@@ -595,6 +595,12 @@ Day 100 July 29, 2021
 Today's Progress: KABOOM! #100Days of Code!!! Still working Javascript and Typescript learning.
 Thoughts: Feels good to accomplish this. 
 
+Day 101 July 30, 2021
+Todays Progress: Pushing hard into Javascript and Typescript these are going to be my focus.
+Thoughts: You didn't think I was done did you?
+
+
+
 
 
 
